@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Diyorbek
 
-<!--
-**diyorbek2299/diyorbek2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+I’m a young developer passionate about building modern and responsive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+### 📌 About Me
+
+* 🌱 Currently learning **Frontend Development**
+* ⚛️ Working with **React**
+* 💡 Interested in modern web technologies
+* 🎯 Goal: Become a professional Full-Stack Developer
+* 🇺🇿 Based in Uzbekistan
+
+### 🛠️ Projects
+
+* 🌐 **Portfolio Website**
+* 🍔 **Fast Food Website**
+* 📝 **Todo App**
+* 🛒 **E-commerce Projects**
+
+### 📊 GitHub Stats
+
+![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdusaitov13\&show_icons=true\&theme=github_dark)
+
+### 🔥 Contribution
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdusaitov13\&theme=dark)
+
+### 📫 Contact
+
+🌐 Portfolio: https://abdurahmon-uzb.netlify.app/
+
+💻 GitHub: https://github.com/Abdusaitov13
