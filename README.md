@@ -27,11 +27,10 @@ I’m a young developer passionate about building modern and responsive websites
 
 ### 📊 GitHub Stats
 
-![Diyorbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdusaitov13\&show_icons=true\&theme=github_dark)
 
 ### 🔥 Contribution
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdusaitov13\&theme=dark)
+
 
 ### 📫 Contact
 
