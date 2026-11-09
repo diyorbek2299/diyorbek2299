@@ -48,3 +48,58 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SIZNING_USERNAMEINGIZ/SIZNING_USERNAMEINGIZ/output/github-contribution-snake.svg" alt="Snake Animation" />
 </p>
+# Art and Computers!
+
+## 💻 Tech Stack
+
+<!-- Harakatlanuvchi ikonkalar (Skills Banner) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,react,css,html,js,threejs,canva,python,next,ai,ps" alt="Tech Stack Icons" />
+</p>
+
+<!-- Rasmda ko'ringan brendli tugmachalar (Badges) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/RAILS-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/THREEJS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/ADOBE_ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/ADOBE_INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<!-- Contribution Snake Animation (Yashil ilon o'yini) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<!-- Video / GIF media qismi -->
+<p align="center">
+  <img src="https://your-domain.com/path-to-your-animation.gif" width="100%" alt="My Animation" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
