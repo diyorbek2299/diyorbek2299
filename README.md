@@ -46,14 +46,7 @@
 
 ### 🐍 GitHub Contribution Snake Animatsiyasi
 <p align="center">
-  <table>
-  <tr>
-  <td>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  </td>
-  </tr>
-</table>
+  
 </p>
 # Art and Computers!
 
