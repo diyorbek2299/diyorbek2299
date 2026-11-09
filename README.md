@@ -92,14 +92,8 @@
 ---
 
 <!-- Video / GIF media qismi -->
-<p align="center">
-  <img src="https://your-domain.com/path-to-your-animation.gif" width="100%" alt="My Animation" />
-</p>
+
 
 ---
 
-## 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
