@@ -1,99 +1,50 @@
-<h1 align="center">Salom, dunyo! 👋 Men <a href="https://github.com/SIZNING_USERNAMEINGIZ" target="_blank">Ismingiz</a>man</h1>
+# 👋 Hi, I'm a Front-End Developer!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+## 🚀 About Me
+
+- 💻 I'm learning Front-End Development.
+- 🌱 Improving my HTML, CSS and JavaScript skills.
+- 🎨 I love creating beautiful and modern websites.
+- ⚡ Interested in Bootstrap and responsive design.
+- 🎯 My goal is to become a professional developer.
+
+## 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Dasturchi+%F0%9F%92%BB;Open-Source+Ishqibozi+%E2%9A%A1;Texnologiya+O'rganuvchisi+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" />
 </p>
 
----
-
-### 💻 Men haqimda:
-- 🔭 Hozirda **qiziqarli loyihalar** ustida ishlayapman.
-- 💡 Yangi texnologiyalarni o'rganish va amalda qo'shishni yaxshi ko'raman.
-- 🤝 Har qanday qiziqarli open-source loyihalarga qo'shilishga tayyorman.
-
----
-
-### 🛠 Foydalanadigan texnologiyalarim:
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
-
-### 📊 GitHub Statistikam:
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/1158072687/9e1241d9-b5f9-439f-a234-d7b92c6f8a1c" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
+
+## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIZNING_USERNAMEINGIZ&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAMEINGIZ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake Animatsiyasi
-<p align="center">
-  
-</p>
-# Art and Computers!
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 
-## 💻 Tech Stack
-
-<!-- Harakatlanuvchi ikonkalar (Skills Banner) -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,react,css,html,js,threejs,canva,python,next,ai,ps" alt="Tech Stack Icons" />
-</p>
-
-<!-- Rasmda ko'ringan brendli tugmachalar (Badges) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/RAILS-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/THREEJS-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADOBE_PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/ADOBE_ILLUSTRATOR-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/ADOBE_INDESIGN-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-<!-- Contribution Snake Animation (Yashil ilon o'yini) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/username/username/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<!-- Video / GIF media qismi -->
-
-
----
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=100&section=footer" width="100%"/>
